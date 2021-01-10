@@ -1,9 +1,7 @@
 # _Resort Website_
 #### _January 10th 2021_
 Creating a test website for Epicodus who has a client that wants a website created for their new resort.
-#### By _**{List of contributors}**_
-Saoud Rana
-Garrett Brown
+#### By _**{Saoud Rana Garrett Brown}**_
 ## Description
 
 _Test Website_
